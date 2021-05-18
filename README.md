@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Chris!
+- 👀 I’m interested in pro wrestling, video games, music, and skating.
+- I'm new to the world of full stack engineering but it's pretty cool so far
