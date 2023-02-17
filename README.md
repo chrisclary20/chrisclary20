@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Chris!
-- 👀 I am currently a student in the UNC Chapel Hill sponsored Full-Stack Web Development Boot Camp
 - Current languages I'm using and learning are Node.js, Express.js, Javascript, HTML5, CSS3, React...etc.
