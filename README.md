@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Chris!
-- Current languages I'm using and learning are Node.js, Express.js, Javascript, HTML5, CSS3, React...etc.
+- I do System Administration! Currentlyemployed at Fusion BPO Services
